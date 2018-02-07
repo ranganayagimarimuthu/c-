@@ -13,4 +13,5 @@ int main()
       printf("It is consonant");
   }
 return 0;
+getch();
 }
